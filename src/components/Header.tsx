@@ -10,7 +10,7 @@ const Header = () => {
 
         {/* Logo */}
         <div className="text-2xl font-bold cursor-pointer">
-          OrganicStore
+          Organic
         </div>
 
         {/* Desktop Search */}
