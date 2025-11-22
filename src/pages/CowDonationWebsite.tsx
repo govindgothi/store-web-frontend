@@ -66,7 +66,7 @@ const CowDonationWebsite: React.FC = () => {
   const HomePage = () => (
     <div>
       {/* Hero Section */}
-      <section className="relative bg-gradient-to-r from-orange-500 to-orange-600 text-white py-20 px-4">
+      <section className="relative  from-orange-500 to-orange-600 text-white py-20 px-4">
         <div className="max-w-6xl mx-auto">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
