@@ -659,7 +659,7 @@ const CowDonationWebsite: React.FC = () => {
       <div className="max-w-4xl mx-auto">
         <h1 className="text-5xl font-bold mb-8 text-gray-800">Privacy Policy</h1>
         <div className="prose prose-lg max-w-none">
-          <p className="text-gray-600 mb-6">Last updated: November 22, 2025</p>
+          <p className="text-gray-600 mb-6">Last updated: November 21, 2025</p>
 
           <section className="mb-8">
             <h2 className="text-3xl font-bold mb-4 text-gray-800">1. Information We Collect</h2>
@@ -728,8 +728,8 @@ const CowDonationWebsite: React.FC = () => {
               If you have any questions about this Privacy Policy, please contact us at:
             </p>
             <div className="bg-orange-50 p-6 rounded-lg mt-4">
-              <p className="text-gray-700">Email: privacy@cowdonation.org</p>
-              <p className="text-gray-700">Phone: +91 98765 43210</p>
+              <p className="text-gray-700">Email: govindgothi5815@gmail.com</p>
+              <p className="text-gray-700">Phone: +91 8839571505</p>
             </div>
           </section>
         </div>
@@ -1028,8 +1028,8 @@ const CowDonationWebsite: React.FC = () => {
                 <Heart className="w-8 h-8 text-white" />
               </div>
               <div className="text-left">
-                <div className="text-2xl font-bold text-gray-800">Gau Seva</div>
-                <div className="text-xs text-gray-600">Cow Protection Trust</div>
+                <div className="text-2xl font-bold text-gray-800">gunnavradhhi</div>
+                <div className="text-xs text-gray-600">Cow Protection </div>
               </div>
             </button>
 
