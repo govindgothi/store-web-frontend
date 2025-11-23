@@ -556,8 +556,8 @@ const CowDonationWebsite: React.FC = () => {
                 <div>
                   <h3 className="font-bold text-gray-800 mb-1">Address</h3>
                   <p className="text-gray-600">
-                    123 Cow Shelter Road<br />
-                    Gau Seva Nagar<br />
+                    Bengali square<br />
+                    Shree Ram Nagar<br />
                     Indore, Madhya pradesh 452016
                   </p>
                 </div>
@@ -574,7 +574,7 @@ const CowDonationWebsite: React.FC = () => {
                   </p>
                 </div>
               </div>
-              <div className="flex items-start gap-4">
+              {/* <div className="flex items-start gap-4">
                 <div className="bg-orange-100 p-3 rounded-lg">
                   <Mail className="w-6 h-6 text-orange-600" />
                 </div>
@@ -585,7 +585,7 @@ const CowDonationWebsite: React.FC = () => {
                     support@cowdonation.org
                   </p>
                 </div>
-              </div>
+              </div> */}
             </div>
 
             <div className="mt-8">
@@ -1159,15 +1159,15 @@ const CowDonationWebsite: React.FC = () => {
               <ul className="space-y-3 text-sm text-gray-400">
                 <li className="flex items-start gap-2">
                   <MapPin className="w-4 h-4 mt-1 flex-shrink-0" />
-                  <span>123 Cow Shelter Road, Mumbai, Maharashtra 400001</span>
+                  <span> Bengali square, shree ram nagar</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <Phone className="w-4 h-4 flex-shrink-0" />
-                  <span>+91 98765 43210</span>
+                  <span>+91 8839571505</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <Mail className="w-4 h-4 flex-shrink-0" />
-                  <span>info@cowdonation.org</span>
+                  <span>govindgothi930@gmail.com</span>
                 </li>
               </ul>
               <div className="flex gap-3 mt-4">
